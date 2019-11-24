@@ -93,9 +93,9 @@ params:
     # option to specify the logo in the footer
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: name.surname@domain.com
+    email: wadzi.motsi@gmail.com
     # option to specify your linkedin profile in the footer
-    linkedin: https://www.linkedin.com/your_linkedin_profile/
+    linkedin: www.linkedin.com/in/wadzanai-motsi-khatai
     # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
     # facebook: your.username
     # option to specify your github account in the footer; **uncomment** the below line to show in footer
@@ -135,7 +135,7 @@ languages:
       footer:
         logo: "/images/refresh-square.svg"
         email: wadzi.motsi@gmail.com
-        # linkedin: https://www.linkedin.com/your_linkedin_profile/
+        linkedin: www.linkedin.com/in/wadzanai-motsi-khatai
         # facebook: your.username
         # twitter: username
         # instagram: username
