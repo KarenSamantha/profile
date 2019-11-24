@@ -13,6 +13,12 @@ DefaultContentLanguage: en
 
 disableKinds: ["sitemap","RSS"]
 
+menu:
+ main:
+  name: About
+  weight: 20
+  url: "/about/"
+
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true
@@ -95,7 +101,7 @@ params:
     # option to specify your contact email in the footer
     email: wadzi.motsi@gmail.com
     # option to specify your linkedin profile in the footer
-    linkedin: www.linkedin.com/in/wadzanai-motsi-khatai
+    linkedin: https://www.linkedin.com/in/wadzanai-motsi-khatai
     # option to specify your facebook account in the footer; **uncomment** the below line to show in footer
     # facebook: your.username
     # option to specify your github account in the footer; **uncomment** the below line to show in footer
@@ -105,7 +111,7 @@ params:
     # option to specify your instagram username in the footer; **uncomment** the below line to show in footer
     # instagram: username
     # option to specify the copyright in the footer
-    copyright: Wadzanai Karen Samantha Motsi-Khatai - 2019
+    copyright: Motsi-Khatai - 2019
 
 # multilanguage support
 languages:
@@ -135,10 +141,10 @@ languages:
       footer:
         logo: "/images/refresh-square.svg"
         email: wadzi.motsi@gmail.com
-        linkedin: www.linkedin.com/in/wadzanai-motsi-khatai
+        linkedin: https://www.linkedin.com/in/wadzanai-motsi-khatai
         # facebook: your.username
         # twitter: username
         # instagram: username
         # github: username
-        copyright: Wadzanai Karen Samantha Motsi-Khatai - 2019
+        copyright: Motsi-Khatai - 2019
 
